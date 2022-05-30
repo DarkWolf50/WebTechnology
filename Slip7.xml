@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!-- <?xml-stylesheet type="text/css" href="Slip8.css" ?>  -->
+
+<Item>
+    <Item1>
+        <ItemName> Men's Footwear</ItemName>
+        <ItemPrice> 500</ItemPrice>
+        <Quantity> 100</Quantity>
+    </Item1>
+
+    <Item2>
+        <ItemName> Tissue Paper</ItemName>
+        <ItemPrice> 50</ItemPrice>
+        <Quantity> 1000</Quantity>
+
+    </Item2>
+    <Item3>
+        <ItemName> Coocking Oil</ItemName>
+        <ItemPrice> 200</ItemPrice>
+        <Quantity> 200</Quantity>
+    </Item3>
+
+    <Item4>
+        <ItemName> Vegetables</ItemName>
+        <ItemPrice> 100</ItemPrice>
+        <Quantity> 100</Quantity>
+    </Item4>
+    <Item5>
+        <ItemName> Light Bulbs</ItemName>
+        <ItemPrice> 1000</ItemPrice>
+        <Quantity> 500</Quantity>
+    </Item5>
+</Item>
