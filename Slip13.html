@@ -1,0 +1,21 @@
+<html>
+
+<body>
+    <h2>Javascript Confirm box</h2>
+    <button onclick="myFunction()">Try it</button>
+    <p id="demo"></p>
+    <script>
+        function myFunction() {
+            var txt;
+            if (confirm("Exam are near,have you started preparing for?:")) {
+                txt = "i am prepare for exam ok";
+            }
+            else {
+              txt = "u pressed cancel!";
+            }
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+
+</html>

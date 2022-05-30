@@ -1,0 +1,23 @@
+
+<html>
+
+<body>
+    <h2>Javascript Prompt</h2>
+    <button onclick="myFunction()">Try it</button>
+    <p id="demo"></p>
+    <script>
+        function myFunction() {
+            let text;
+            let person = prompt("Welcome to JavaScript World!", "Thank You!");
+            if (person == null || person == "") {
+                text = "  Not Welcome";
+            }
+            else {
+                text = "I M Here" + person ;
+            }
+            document.getElementById("demo").innerHTML = text;
+        }
+    </script>
+</body>
+
+</html>
