@@ -1,0 +1,285 @@
+
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II Data Analytics
+Duration: 3 hours Marks: 35
+
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a PHP script to keep track of number of times the web page has been access.
+[Use session]
+[15]
+2. Create ‘User’ Data set having 5 columns namely: User ID, Gender, Age ,EstimatedSalary and purchased. Build a logistic regression model that can predict whether on the given parameter a person will buy a car or not.
+[15]
+3. Viva
+[5]
+------------------------------------------------------Slip 1-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a PHP script to keep track of number of times the web page has been access.
+[Use Cookies] [15]
+2. Create ‘Realestate’ Data set having 4 columns namely: ID, flat, houses and purchases (random 5 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model for predicting purchases.
+[15]
+3. Viva
+[5]
+------------------------------------------------------Slip 2-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a PHP script to accept username and password. If in the first three chances, username and password entered is correct then display second form with “Welcome message” otherwise display error message. [Use Session]
+[15]
+2. Create ‘Sales’ Data set having 5 columns namely: ID,TV, Radio, Newspaper and sales.(random 10 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 3-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1 Write a PHP script to accept Employee details (Eno, Ename, Address) on first page. On second page accept earning (Basic, DA, HRA). On third page print Employee information (Eno, Ename, Address, Basic, DA, HRA, Total) [ Use Session] [15]
+2. Consider the following review messages. Perform sentiment analysis on the messages.
+i) I purchased headphones online. I am very happy with the product.
+ii) I saw the movie yesterday. The animation was really good but the script was ok.
+[15]
+3. Viva
+[5]
+------------------------------------------------------Slip 4-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Crete a form to accept customer information ( Name, Addr, MobNo). Once the customer information is accepted, accept product information in the next form (ProdName, Qty,Rate). Generate the bill for the customer in the next form. Bill should contain the customer information and the information of the products entered. [15]
+2. Consider the following review messages. Perform sentiment analysis on the messages.
+i) I enjoy listening to music.
+ii) I take a walk in the park everyday. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 5-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Create a XML file which gives details of movies available in “Movie CD Store “ from following categories a) Classical b) Horror c) Action Elements in each category are in the following format <Category>
+<MovieTitle>…………….</ MovieTitle>
+<ActorName> ………………. </ActorName>
+< ReleaseYear> ………………… </ReleaseYear>
+</ Category>
+Save the file with name “movies.xml” [15]
+2. Create ‘Customer’ Data set having 5 columns namely: Cust ID, Name, Age, Address and purchares.(random 10 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model. [15]
+3. Viva [5]
+------------------------------------------------------Slip 6-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a script to create XML file named “Item.xml”
+<Item>
+<ItemName> …………….</ItemName>
+<ItemPrice> ……………….</ItemPrice>
+<Quantity> …………………</Quantity>
+</Item>
+Store the details of 5 Items of different Types [15]
+2. Create the following dataset in python
+Convert the categorical values into numeric format. Apply the apriori algorithm on the above dataset t generate the frequent itemsets and association rules. Repeat the process with different min_sup values.
+[15]
+3. Viva [5]
+------------------------------------------------------Slip 7-------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Link “ Item. Xml” file to the CSS style sheet and get well formatted output as given below i) ItemName : Color : red; Font-family : copperplate Gothic Light; Font-size : 16pt; Font :bold; ii) ItemPrice and Quantity color:yellow; font-family:Arial; font-size:12 pt; font:bold; [15]
+2. Create ‘student’ Data set having 5 columns namely: RollNo, Name, Gender, Age ,Class. Build a logistic regression model that can predict whether on the given parameter a student will TY class or not. [15]
+3. Viva [5]
+------------------------------------------------------Slip 8-----------------------------------------------------
+TID
+Items
+1
+Bread, Milk
+2
+Bread, Diaper, Beer, Eggs
+3
+Milk, Diaper, Beer, Coke
+4
+Bread, Milk, , Diaper, Beer
+5
+Bread, Milk, Diaper, Coke
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write PHP script to read above created “book.xml” file into simpleXML object. Display attributes and elements .(Hint L simple_xml_load_file() function ) [15]
+2. Create ‘Employee’ Data set having 5 columns namely: Emp ID, EName, Age ,Salary, purchased. Build a polynomial regression model that can predict whether on the given parameter a person will buy a car or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 9-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a PHP script to read “Movie.xml” file and print all MovieTitle and ActorName of file using DOMDocument Parser. “Movie.xml” file should contain following information with at least 5 records with values. MovieInfo MovieNo, MovieTitle, ActorName , ReleaseYear [15]
+2. Create the following dataset in python
+TID
+Items
+1
+Apple, Banana
+2
+Mango, Banana, Cabbage, Carrots
+3
+Banana, Carrots, Cabbage, Carrots
+4
+Banana, Carrots, Mango
+Convert the categorical values into numeric format. Apply the apriori algorithm on the above dataset t generate the frequent itemsets and association rules. Repeat the process with different min_sup values.
+[15]
+3. Viva
+[5]
+------------------------------------------------------Slip 10-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a javascript to display message ‘Exams are near, have you started preparing for?’ using alert boxes. Accept proper input from user and display messages accordingly. [15]
+2. Create ‘Purchase’ Data set having 5 columns namely: ID, Laptop, Printer, Camera, and Purchaes.(random 10 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model . [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 11-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a javascript to display message ‘Exams are near, have you started preparing for?’
+using prompt boxes. Accept proper input from user and display messages accordingly. [15]
+2. Create ‘Customer’ Data set having 5 columns namely: Cust ID, Name, Age, Address and purcharesS.(random 10 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 12-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a javascript to display message ‘Exams are near, have you started preparing for?’ using confirm boxes. Accept proper input from user and display messages accordingly. [15]
+2. Create ‘student’ Data set having 5 columns namely: RollNo, Name, Gender, Class ,Marks. Build a Simple linear regression model that can predict whether on the given parameter a student will scored in TY class or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 13-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Create a CSS file to apply the following styling for an HTML document.
+Background color: blue,
+H1 { Color : red, Font-family : Verdana, Font-size : 8 }
+P { Color : green, Font-family : Monospace, Font-size :10 } [15]
+2. Consider a data X=[2,4,9,11,19 and Y=[2,1,13,20,44,74]]Build a Simple polynomial regression model that can predict whether a data will plot or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 14-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a script to create XML file named “Book.xml”
+<Book>
+<BookName> …………….</BookName>
+<Author> ……………….</Author>
+<Price> …………………</Price>
+</Book>
+Store the details of 5 Books of different Types [15]
+2. Consider the following review messages. Perform sentiment analysis on the messages.
+iii) I purchased headphones online. I am very happy with the product.
+iv) I saw the movie yesterday. The animation was really good but the script was ok. [15]
+3. Viva [5]
+------------------------------------------------------Slip 15-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a script to create XML file named “Employee.xml”
+<Employee>
+<EmpName> …………….</EmpName>
+<Designation> ……………….</Designation>
+<Salary> …………………</Salary>
+</Employee>
+Store the details of 5 Employee of different Types [15]
+2. Create ‘User’ Data set having 5 columns namely: User ID, Gender, Age ,EstimatedSalary and purchased. Build a logistic regression model that can predict whether on the given parameter a person will buy a car or not. [15]
+3. Viva [5]
+------------------------------------------------------Slip 16-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a PHP script to keep track of number of times the web page has been access.
+[Use Cookies] [15]
+2. Create ‘student’ Data set having 5 columns namely: RollNo, Name, Gender, Age ,Class. Build a logistic regression model that can predict whether on the given parameter a student will TY class or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 17-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–
+CS-368 Practical Course Based On Lab Course III Web Technologies II II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a JavaScript to display message ‘Welcome to JavaScript world?’ using alert boxes. Accept proper input from user and display messages accordingly. [15]
+2. Consider a data X=[2,4,9,11,19 and Y=[2,1,13,20,44,74]]Build a Simple polynomial regression model that can predict whether a data will plot or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 18-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a JavaScript to display message ‘Welcome to JavaScript world?’ using Prompt boxes. Accept proper input from user and display messages accordingly. [15]
+2. Create ‘Customer’ Data set having 5 columns namely: Cust ID, Name, Age, Address and purchares.(random 10 entries). Build a linear regression model by identifying independent and target variable. Split the variables into training and testing sets and print them. Build a simple linear regression model. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 19-----------------------------------------------------
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem–II
+CS-368 Practical Course Based On Lab Course III Web Technologies II and Data Analytics
+Duration: 3 hours Marks: 35
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Write a JavaScript to display message ‘Welcome to JavaScript world?’ using conform boxes. Accept proper input from user and display messages accordingly. [15]
+2. Create ‘Employee’ Data set having 5 columns namely: Emp ID, EName, Age ,Salary, purchased. Build a polynomial regression model that can predict whether on the given parameter a person will buy a car or not. [15]
+3. Viva
+[5]
+------------------------------------------------------Slip 20-----------------------------------------------------
